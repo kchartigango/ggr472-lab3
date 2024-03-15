@@ -1,0 +1,24 @@
+.map-container {
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    left: 20%;
+    bottom: 10%;
+    width: 60%;
+}
+
+body {
+    background-color: lavender;
+}
+
+h1 {
+    color: slategray
+}
+
+h2 {
+    color: slategray
+}
+
+p {
+    color: gray
+}

@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BB's Diner",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 4.5
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43241646753523,
+                    43.64200112847655
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jollibee",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 4.1
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.38156411465442,
+                    43.65739961573675
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casa Manila",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 3.8
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.34896603827166,
+                    43.755088054448294
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jesse Jr. Restaurant",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 4.0
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.2750988069669,
+                    43.74913141395314
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kabalen Filipino Restaurant",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 3.9
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43454526442706,
+                    43.73804080251699
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sampaguita Village",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 4.4
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43649448752767,
+                    43.736924110466305
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tinuno",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 4.4
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.37489220660329,
+                    43.67129039640116
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Remely's",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 3.8
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.24954275509998,
+                    43.79238137147928
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Barrio Fiesta",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 3.2
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.22663648751316,
+                    43.79574811918641
+                ],
+                "type": "Point"
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bella's Lechon",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle",
+                "rating": 3.4
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.19835975495869,
+                    43.80128986609523
+                ],
+                "type": "Point"
+            },
+            "id": 9
+        }
+    ]
+}
