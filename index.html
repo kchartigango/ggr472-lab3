@@ -18,8 +18,25 @@
 </head>
 
 <body>
+
+    <!--Map container-->
     <div id="my-map" class="map-container"></div>
-    <script src="script.js"></script>
+
+    <!--Navigation elements-->
+    <div class = 'map-search-container'>
+        <label>Search within Toronto</label>
+        <div id="geocoder" class="geocoder"></div>
+        <button type="button" class="btn btn-primary btn-sm" id="returnbutton">Return to full extent</button>
+    </div>
+
+    <!--Legend, according to restaurant rating-->
+    <div id='rating-legend' class='legend'>
+        <h4>Restaurant Rating</h4>
+        <div><span style='background-color: #ffffcc'></span><3.5</div>
+        <div><span style='background-color: #a1dab4'></span>3.5-3.9</div>
+        <div><span style='background-color: #41b6c4'></span>4.0-4.4</div>
+        <div><span style='background-color: #253494'></span>4.5-5.0</div>
+    </div>
 
     <!--Loading the mapbox-gl-geocoder plugin.-->
     <script
@@ -28,6 +45,8 @@
         href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.2/mapbox-gl-geocoder.css"
         type="text/css">
 
+    <script src="script.js"></script>
+
     <!--Div container for the page using Bootstrap. The parameters center the text, 
     while setting the padding and margins for the page.-->
     <div class="container text-center p-3 mb-2">
@@ -35,7 +54,7 @@
         <div class="row">
             <h1>Kaylee's GGR472 Lab 3 Webpage</h1>
             <h2>Filipino Restaurants across Toronto</h2>
-            <p>This webpage maps several<a target="_blank" href="restaurants.geojson">Filipino restaurants</a> in Toronto, with added filters.</p>
+            <p>This webpage maps several <a target="_blank" href="filipino-restaurants.geojson">Filipino restaurants</a> in Toronto, with added filters and details.</p>
         </div>
 </body>
 
